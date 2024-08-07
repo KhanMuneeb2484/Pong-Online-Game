@@ -20,18 +20,20 @@ Pong, one of the earliest arcade video games, was released by Atari in 1972. It 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/online-pong-game.git
-   cd online-pong-game
+   git clone https://github.com/KhanMuneeb2484/Pong-Online-Game.git
+   cd Pong-Online-Game
    ```
 
 2. Install dependencies:
    ```bash
     npm install
    ```
+   
 
- 3.Start the Server
+3.Start the Server
    ```bash
     npm start
    ```
-  4.Open Front End with Live Preview
+
+4.Open Front End with Live Preview
 
