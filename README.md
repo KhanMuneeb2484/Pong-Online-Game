@@ -29,9 +29,9 @@ Pong, one of the earliest arcade video games, was released by Atari in 1972. It 
     npm install
    ```
 
-3.Start the Server
+ 3.Start the Server
    ```bash
     npm start
    ```
-4.Open your browser and navigate to http://localhost:3000.
+  4.Open Front End with Live Preview
 
