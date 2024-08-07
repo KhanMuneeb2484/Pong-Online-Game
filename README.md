@@ -17,23 +17,30 @@ Pong, one of the earliest arcade video games, was released by Atari in 1972. It 
 - **Backend:** Node.js, Express
 - **Real-time Communication:** WebSocket, Socket.IO
 
-## Installation
+## How to Use Pong-Online-Game
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed
+- [npm](https://www.npmjs.com/get-npm) installed
+
+### Installation
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/KhanMuneeb2484/Pong-Online-Game.git
-   cd Pong-Online-Game
-   ```
+    ```bash
+    git clone https://github.com/KhanMuneeb2484/Pong-Online-Game.git
+    cd Pong-Online-Game
+    ```
 
-2. Install dependencies:
-   ```bash
+2. Install the dependencies:
+    ```bash
     npm install
-   ```
-   
+    ```
 
-3.Start the Server
-   ```bash
+3. Start the server:
+    ```bash
     npm start
-   ```
+    ```
 
-4.Open Front End with Live Preview
+4. Open index.html with live server in VsCode.
 
